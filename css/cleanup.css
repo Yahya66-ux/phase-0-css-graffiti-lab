@@ -1,1 +1,47 @@
 /* write your override styles here */
+body {
+    background-color: white;
+    /* other CSS properties as needed */
+  }
+
+  #wall {
+    background: url(../images/new-wall.jpg) no-repeat center;
+    /* other CSS properties as needed */
+  }
+
+  #wall .tag-1 {
+    display: none;
+    z-index: auto;
+  }
+
+  #wall {
+    box-shadow: none;
+    border: none;
+  }
+  #wall #tag-2 {
+    display: none;
+    z-index: auto;
+  }
+
+  v#wall #tag-3.slick {
+    display: none;
+    z-index: auto;
+  }
+  #wall #tag-4 {
+    display: none;
+    z-index: auto;
+  }
+  div#wall .parent #tag-5.slick {
+    display: none;
+    z-index: auto;
+  }
+  div#wall div.parent div:last-child div#tag-6  {
+    display: none;
+    z-index: auto;
+  }
+  body div#wall div.parent div > #tag-7.slick {
+    display: none;
+    z-index: auto;
+  }
+
+
